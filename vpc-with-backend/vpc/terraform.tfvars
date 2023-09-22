@@ -14,7 +14,5 @@ region = "us-east-1"
 
 aws_ami = "ami-0f844a9675b22ea32"
 
-access_key = "AKIATDXLSEHPHAP37TH7"
-secret_key = "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"
 
 
